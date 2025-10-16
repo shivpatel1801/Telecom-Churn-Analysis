@@ -77,4 +77,4 @@ Files in This Repository
 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/telecom-churn-analysis.git
+   git clone https://github.com/shivpatel1801/telecom-churn-analysis.git
